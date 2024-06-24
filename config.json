@@ -1,0 +1,20 @@
+{
+    "email_accounts": {
+        "discord": ["noreply@discord.com", "notifications@discord.com"],
+        "roblox": ["accounts@roblox.com", "support@roblox.com", "support-en@roblox.com"],
+        "epic": ["help@accts.epicgames.com"],
+        "ubisoft": ["news@news.ubisoft.com"],
+        "temu": ["service@temu.com", "noreply@temu.com", "promo@temu.com"],
+        "sellix": ["notice@orders.sellix.io", "notice@private.sellix.io"],
+        "steam": ["noreply@steampowered.com"],
+        "riotgames": ["noreply@umail.accounts.riotgames.com"],
+        "supercell": ["noreply@id.supercell.com"],
+        "rockstar": ["noreply@rockstargames.com"],
+        "blizzard": ["noreply@e.blizzard.com"],
+        "shopify": ["email@email.shopify.com"],
+        "pokemon": ["pokemon@email.pokemon.com"],
+        "tiktok": ["info@tiktok.com", "noreply@verification.tiktok.com", "noreply@tiktok.com"],
+        "instagram": ["no-reply@mail.instagram.com"]
+    },
+    "threads": 50
+}
