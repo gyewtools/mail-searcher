@@ -14,7 +14,10 @@
         "shopify": ["email@email.shopify.com"],
         "pokemon": ["pokemon@email.pokemon.com"],
         "tiktok": ["info@tiktok.com", "noreply@verification.tiktok.com", "noreply@tiktok.com"],
-        "instagram": ["no-reply@mail.instagram.com"]
+        "instagram": ["no-reply@mail.instagram.com"],
+        "coinbase": ["no-reply@coinbase.com"],
+        "binance": ["do-not-reply@ses.binance.com"],
+        "nordvpn": ["support@nordaccount.com"]
     },
     "threads": 50
 }
